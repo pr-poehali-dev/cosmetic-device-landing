@@ -63,8 +63,8 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-6">
             <div className="flex items-center space-x-3">
-              <Icon name="Zap" className="text-pink-500" size={32} />
-              <h1 className="text-2xl font-bold text-gray-900">CosmetoTech</h1>
+              <Icon name="Sparkles" className="text-pink-500" size={32} />
+              <h1 className="text-2xl font-bold text-gray-900">AesthetiX</h1>
             </div>
             <nav className="hidden md:flex space-x-8">
               <a href="#catalog" className="text-gray-700 hover:text-pink-500 transition-colors">Каталог</a>
@@ -83,12 +83,12 @@ const Index = () => {
       <section className="py-20 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-5xl font-bold text-gray-900 mb-6">
-            Профессиональное<br />
-            <span className="text-pink-500">косметологическое</span> оборудование
+            Инновационные решения<br />
+            <span className="text-pink-500">для эстетической</span> медицины
           </h2>
           <p className="text-xl text-gray-600 mb-10 max-w-3xl mx-auto">
-            Сертифицированные аппараты для салонов красоты и косметологических клиник. 
-            Гарантия качества, техподдержка и обучение персонала.
+            Передовое оборудование для косметологических процедур. 
+            Высокие технологии, надежность и профессиональная поддержка.
           </p>
           <div className="flex flex-wrap justify-center gap-6">
             <div className="flex items-center space-x-2">
@@ -203,11 +203,11 @@ const Index = () => {
               <div className="space-y-4">
                 <div className="flex items-center space-x-3">
                   <Icon name="Phone" className="text-pink-500" />
-                  <span>+7 (495) 123-45-67</span>
+                  <span>+7 (495) 789-01-23</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Icon name="Mail" className="text-pink-500" />
-                  <span>info@cosmetotech.ru</span>
+                  <span>info@aesthetix.ru</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Icon name="MapPin" className="text-pink-500" />
@@ -236,14 +236,14 @@ const Index = () => {
       <footer className="bg-gray-900 text-white py-12 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto text-center">
           <div className="flex items-center justify-center space-x-3 mb-4">
-            <Icon name="Zap" className="text-pink-500" size={24} />
-            <h5 className="text-xl font-bold">CosmetoTech</h5>
+            <Icon name="Sparkles" className="text-pink-500" size={24} />
+            <h5 className="text-xl font-bold">AesthetiX</h5>
           </div>
           <p className="text-gray-400">
-            Профессиональное косметологическое оборудование для вашего бизнеса
+            Инновационное косметологическое оборудование нового поколения
           </p>
           <div className="mt-6 text-sm text-gray-500">
-            © 2024 CosmetoTech. Все права защищены.
+            © 2024 AesthetiX. Все права защищены.
           </div>
         </div>
       </footer>
